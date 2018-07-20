@@ -2,7 +2,8 @@
   "live": [
     "client.scyl.la",
     "ilsp.openafricanetwork.org",
-    "btp.connector0.com"
+    "btp.connector0.com",
+    "btp.tinypolarbear.com"
   ],
   "test": [
     "amundsen.ilpdemo.org:1811"
